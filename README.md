@@ -98,9 +98,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- https://www.theodinproject.com/lessons/foundations-landing-page
 
 ## 📝 License
 
