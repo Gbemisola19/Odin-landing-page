@@ -1,6 +1,6 @@
-# Project Name
+# Odin Landing Page
 
-> One paragraph statement about the project.
+> This is a project about some semantic html elements and css elements.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,14 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html elements,
+  - `div`, `unordered list(ul)`, `button`
+- CSS,
+  - `display`, `width`, `height` `margin`, `padding`, `font-size`
+  - `border-radius`, `color`, `background-color`, `font-style`
+- Linters
+  - [Prettier](https://prettier.io/)
+  - [stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +26,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/Odin-landing-page.git
 
 ```
 
@@ -93,9 +98,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- https://www.theodinproject.com/lessons/foundations-landing-page
 
 ## 📝 License
 
